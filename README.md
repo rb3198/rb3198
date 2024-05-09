@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <br/>
 
 <p>
-    <img align="right" alt="Coding" width="300" src="./media/coding.png" />
+    <img align="right" alt="Coding" width="250" src="./media/coding.png" />
 
 📖 Currently pursuing a Masters in CS at the University of Florida.
 
